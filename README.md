@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rushikesh Giri
-- 👀 I’m interested in Frontend devlopment
+- 👀 I’m interested in Frontend development
 - 🌱 I’m currently learning Angular
 - 📫 How to reach me girirushikesh2@gmail.com
 
